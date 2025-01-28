@@ -6,6 +6,8 @@ author:
   name: Youssef Adly
   email: youssefadly237@gmail.com
 
+log_level: info
+
 plugins:
   - jemoji
   - jekyll-seo-tag
@@ -23,5 +25,5 @@ defaults:
     values:
       layout: "post"
       permalink: /blog/:title/
-      
+
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "drafts"]
