@@ -26,7 +26,7 @@ I'm currently a medical student at Minia National University (MNU), trying to ba
 
 I'm always open to collaboration or just chatting about things that spark curiosity. Here’s how you can reach me:
 
-- **Email**: [youssefadly237@gmail.com]
+- **Email**: [youssefadly237@gmail.com](mailto:youssefadly237@gmail.com)
 - **GitHub**: [https://github.com/youssefadly237](https://github.com/youssefadly237)
 - **Twitter**: [@youssefadly237](https://x.com/youssefadly237)
 - **Telegram** [@youssefadly237](https://t.me/youssefadly237)
