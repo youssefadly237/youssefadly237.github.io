@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Purpose of Education
-date: 
+date: 2024-01-26
 categories: [fiction, jekyll]
 ---
 
