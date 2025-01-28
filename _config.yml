@@ -18,6 +18,10 @@ collections_dir: all_collections
 collections:
   items:
     output: true
+    permalink: /:title/
+  hiddenposts:
+    output: true
+    permalink: /blog/:title/
   posts:
     output: true
 
