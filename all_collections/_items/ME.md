@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: item
 title: About Me!
-date: 2024-01-26 16:00:00
-categories: ["Me", "Contacts"]
 ---
 
 Hi! I'm Youssef Adly, a medical student, developer, and creator. I mean, what is life without learning, creating, and pressing that red button just to see what it does? 🙄
@@ -10,12 +8,12 @@ Hi! I'm Youssef Adly, a medical student, developer, and creator. I mean, what is
 ## Who Am I?
 
 I'm currently a medical student at Minia National University (MNU), trying to balance my studies with my passion for tech, coding, and creativity. When I'm not buried in textbooks (which is most of the time), I'm probably diving into something completely new and random. But in general, the most frequent things I do:
+
 - **Coding**: Seeing something that makes me say "Woooooow, gotta try that!"
 - **Playing Brawl Stars**: the Janitor
 - **Scrolling through my phone**: (Let's be honest, we all do it!)
 - **Playing Lute**: A peaceful hobby I enjoy.
 - **Making Tea**: dear Tea, please fix my life
- 
 
 ## My Interests
 
@@ -24,11 +22,10 @@ I'm currently a medical student at Minia National University (MNU), trying to ba
 - **Coding and Development**: Building my own apps, websites, and tools to simplify my life. I’ve got some exciting projects coming soon (fingers crossed that "soon" really is soon!).
 - **Creative Pursuits**: Playing music, designing, and drawing (I'm not a professional artist, but I enjoy expressing myself through sketches and designs).
 
-
-
 ## Let's Connect!
 
 I'm always open to collaboration or just chatting about things that spark curiosity. Here’s how you can reach me:
+
 - **Email**: [youssefadly237@gmail.com]
 - **GitHub**: [https://github.com/youssefadly237](https://github.com/youssefadly237)
 - **Twitter**: [@youssefadly237](https://x.com/youssefadly237)

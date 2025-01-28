@@ -5,6 +5,22 @@
     <main>
       {% include header.html %} {% include bio.html %}
       <section class="articles">
+        {% for item in site.items %}
+        <article class="article">
+          <h2 class="article-title">
+            <a href="{{site.baseurl}}{{item.url}}"> {{item.title}} </a>
+          </h2>
+          <div class="categories">
+            {% for c in item.categories %}
+            <a href="#!" data-base-url="{{site.baseurl}}" class="category"
+              >{{c}}</a
+            >
+            {% endfor %}
+          </div>
+        </article>
+        {%endfor%}
+      </section>
+      <section class="articles">
         {% for post in site.posts %}
         <article class="article">
           <h2 class="article-title">

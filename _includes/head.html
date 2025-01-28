@@ -8,7 +8,7 @@
     href="{{site.baseurl}}/assets/icons/mylogo.svg"
     type="image/svg+xml"
   />
-  {% if page.layout == "post" %}
+  {% if page.layout == "post" or page.layout == "item" %}
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/post.css" />
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/syntax.css" />
   {% else %}

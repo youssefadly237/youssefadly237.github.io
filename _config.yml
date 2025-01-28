@@ -16,6 +16,8 @@ plugins:
 
 collections_dir: all_collections
 collections:
+  items:
+    output: true
   posts:
     output: true
 
