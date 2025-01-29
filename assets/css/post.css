@@ -198,6 +198,23 @@ main {
   background: var(--gray-3);
 }
 
+/* image sizes */
+
+.img-small {
+  width: 300px;
+  height: auto;
+}
+
+.img-medium {
+  width: 500px;
+  height: auto;
+}
+
+.img-large {
+  width: 800px;
+  height: auto;
+}
+
 @media (prefers-color-scheme: light) {
   .content code,
   .content pre {
@@ -225,7 +242,11 @@ main {
 /* lbox */
 
 .content img {
-  cursor: zoom-in;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem auto; /* Centers the image */
+  text-align: center;
 }
 
 #lightbox {
