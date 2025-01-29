@@ -15,6 +15,32 @@
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/blog.css" />
   {%endif%}
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/common.css" />
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [
+          ["$", "$"],
+          ["\\(", "\\)"],
+        ],
+        displayMath: [
+          ["$$", "$$"],
+          ["\\[", "\\]"],
+        ],
+      },
+      svg: {
+        fontCache: "global",
+      },
+    };
+  </script>
+  <script
+    async
+    src="https://polyfill.io/v3/polyfill.min.js?features=es6"
+  ></script>
+  <script
+    async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+  ></script>
+
   <script src="{{site.baseurl}}/assets/js/categories.js"></script>
   <script>
     const currentTheme = localStorage.getItem("theme");
