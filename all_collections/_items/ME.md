@@ -33,3 +33,6 @@ I'm always open to collaboration or just chatting about things that spark curios
 - **WhatsApp** [+20 109 303 1058](https://api.whatsapp.com/send/?phone=%2B201093031058)
 
 Feel free to get in touch!
+
+> Oh my God, we will keep in touch.
+> Touch? The fuck! Touch each other? Where?
