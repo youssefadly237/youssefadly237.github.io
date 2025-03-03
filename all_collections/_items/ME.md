@@ -1,4 +1,3 @@
-
 ---
 layout: item
 title: About Me!
@@ -39,4 +38,4 @@ Feel free to get in touch!
 
 > Touch? The fuck! Touch each other?
 
->Where?
+> Where?
