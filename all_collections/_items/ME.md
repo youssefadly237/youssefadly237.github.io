@@ -34,8 +34,6 @@ I'm always open to collaboration or just chatting about things that spark curios
 
 Feel free to get in touch!
 
-> Oh my God, we will keep in touch.
-
-> Touch? The fuck! Touch each other?
-
-> Where?
+>Oh my God, we will keep in touch.
+Touch? The fuck! Touch each other?
+Where?
