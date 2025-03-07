@@ -15,6 +15,18 @@ I'm currently a medical student at Minia National University (MNU), trying to ba
 - **Playing Lute**: A peaceful hobby I enjoy.
 - **Making Tea**: dear Tea, please fix my life
 
+## Education
+### Assiut STEM School
+- High School education
+- Attended from 2021 to 2024
+### Minia National University (MNU)
+- Medicine degree
+- Attended from 2024 to Present 
+- Expected Graduation: 2029
+
+## Work & Expertise
+I’ve worked on various small projects, and I’m always exploring new challenges. I’ll update this section when I do something truly great! 🚀
+
 ## My Interests
 
 - **Science**: I’ve always been curious, and I love how science helps solve mysteries and answer questions.
