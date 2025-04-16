@@ -39,7 +39,7 @@ I’ve worked on various small projects, and I’m always exploring new challeng
 - **Coding and Development**: Building my own apps, websites, and tools to simplify my life. I’ve got some exciting projects coming soon (fingers crossed that "soon" really is soon!).
 - **Creative Pursuits**: Playing music, designing, and drawing (I'm not a professional artist, but I enjoy expressing myself through sketches and designs).
 
-## Let's Connect!
+## Let's Connect
 
 I'm always open to collaboration or just chatting about things that spark curiosity. Here’s how you can reach me:
 

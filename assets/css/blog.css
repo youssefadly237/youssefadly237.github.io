@@ -59,25 +59,25 @@ main {
   font-weight: 300;
 }
 #text-wrapper a {
-  color: cyan;
-  border-bottom: 1px solid cyan;
+  color: #cba6f7;
+  border-bottom: 1px solid #cba6f7;
 }
 @media (prefers-color-scheme: light) {
   #text-wrapper a {
-    color: #1ebaba;
-    border-bottom: 1px solid #1ebaba;
+    color: #cba6f7;
+    border-bottom: 1px solid #cba6f7;
   }
 }
 [data-theme="light"] {
   #text-wrapper a {
-    color: #1ebaba;
-    border-bottom: 1px solid #1ebaba;
+    color: #cba6f7;
+    border-bottom: 1px solid #cba6f7;
   }
 }
 [data-theme="dark"] {
   #text-wrapper a {
-    color: cyan;
-    border-bottom: 1px solid cyan;
+    color: #cba6f7;
+    border-bottom: 1px solid #cba6f7;
   }
 }
 #social-wrapper {
