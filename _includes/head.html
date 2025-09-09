@@ -1,0 +1,101 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO Meta Tags -->
+  <meta
+    name="description"
+    content="A personal profile showcasing my journey as a medical student, STEM enthusiast, and hobbyist developer. Explore my projects, blog posts, and insights into the intersection of medicine and technology."
+  />
+  <meta
+    name="keywords"
+    content="STEM, Youssef Adly, personal blog, coding, medicine, medical student, tech enthusiast, web development, hobbyist developer, programming"
+  />
+  <meta name="author" content="Youssef Adly" />
+
+  <!-- Open Graph Meta Tags (for social sharing) -->
+  <meta
+    property="og:title"
+    content="Youssef Adly | Medical Student, STEM Enthusiast, Hobbyist Developer"
+  />
+  <meta
+    property="og:description"
+    content="Welcome to my profile website! Here, I share my experiences as a medical student and passion for technology. Explore my latest projects, posts, and more."
+  />
+  <meta
+    property="og:image"
+    content="{{site.baseurl}}/assets/icons/mylogo.svg"
+  />
+  <meta property="og:url" content="{{site.url}}{{page.url}}" />
+  <meta property="og:type" content="website" />
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@youssefadly237" />
+  <meta
+    name="twitter:title"
+    content="Youssef Adly | Medical Student, STEM Enthusiast, Hobbyist Developer"
+  />
+  <meta
+    name="twitter:description"
+    content="Welcome to my profile website! Here, I share my experiences as a medical student and passion for technology. Explore my latest projects, posts, and more."
+  />
+  <meta
+    name="twitter:image"
+    content="{{site.baseurl}}/assets/icons/mylogo.svg"
+  />
+
+  <title>{{site.title}} | {{page.title}}</title>
+  <link
+    rel="icon"
+    href="{{site.baseurl}}/assets/icons/mylogo.svg"
+    type="image/svg+xml"
+  />
+  {% if page.layout == "post" or page.layout == "item" %}
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/post.css" />
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/syntax.css" />
+  {% else %}
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/blog.css" />
+  {%endif%}
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/common.css" />
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [
+          ["$", "$"],
+          ["\\(", "\\)"],
+        ],
+        displayMath: [
+          ["$$", "$$"],
+          ["\\[", "\\]"],
+        ],
+      },
+      svg: {
+        fontCache: "global",
+      },
+    };
+  </script>
+  <script
+    async
+    src="https://polyfill.io/v3/polyfill.min.js?features=es6"
+  ></script>
+  <script
+    async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+  ></script>
+
+  <script src="{{site.baseurl}}/assets/js/categories.js"></script>
+  <script>
+    const currentTheme = localStorage.getItem("theme");
+    if (currentTheme) {
+      document.documentElement.setAttribute(
+        "data-theme",
+        localStorage.getItem("theme")
+      );
+    }
+  </script>
+  {% if page.layout == "post" %}
+  <script defer src="{{site.baseurl}}/assets/js/lbox.js"></script>
+  {% endif %}
+</head>

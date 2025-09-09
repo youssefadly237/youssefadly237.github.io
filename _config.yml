@@ -1,0 +1,35 @@
+title: Youssef Adly
+markdown: kramdown
+
+# for atom feed
+author:
+  name: Youssef Adly
+  email: youssefadly237@gmail.com
+
+log_level: info
+
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+collections_dir: all_collections
+collections:
+  items:
+    output: true
+    permalink: /:title/
+  hiddenposts:
+    output: true
+    permalink: /blog/:title/
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /blog/:title/
+
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "drafts"]
