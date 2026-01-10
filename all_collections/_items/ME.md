@@ -3,11 +3,17 @@ layout: item
 title: About Me!
 ---
 
-Hi! I'm Youssef Adly, a medical student, developer. I mean, what is life without learning, creating, and pressing that red button just to see what it does? 🙄
+Hi! I'm J. Adly (also Youssef or Joseph, depending on context)
+I'm a medical student, hobbyist dev. I mean, what is life without learning,
+creating, and pressing that red button just to see what it does? 🙄
 
 ## Who Am I?
 
-I'm currently a medical student at Minia National University (MNU), trying to balance my studies with my passion for computer science, and creativity. When I'm not buried in textbooks (which is most of the time), I'm probably diving into something completely new and random. But in general, the most frequent things I do:
+I'm currently a medical student at Minia National University (MNU), trying to
+balance my studies with my passion for computer science, and creativity.
+When I'm not buried in textbooks (which is most of the time), I'm probably diving
+into something completely new and random. But in general, the most frequent
+things I do:
 
 - **Coding**: Seeing something that makes me say "Woooooow, gotta try that!"
 - **Playing Brawl Stars**: the Janitor
@@ -19,12 +25,17 @@ I'm currently a medical student at Minia National University (MNU), trying to ba
 
 ### Full-Stack Developer & Technical Assistant (Freelance · Remote)
 
-- from May 2025 – present
-- Developed and maintained 2 production REST APIs using Python/Flask with PostgreSQL integration for client data management and automation workflows
-- Built a full-stack TypeScript dashboard with React frontend to visualize and manage API data, improving operational efficiency
-- Created 2 custom Discord bots using Discord.py for community automation, moderation, and user engagement features
-- Led community management for 400+ member Discord server, handling daily technical operations and user support
-- Managed VPS hosting, database administration, and integrated workflows with Google Sheets for seamless data processing
+- May 2025 – Oct 2025
+- Developed and maintained 2 production REST APIs using Python/Flask with
+  PostgreSQL integration for client data management and automation workflows
+- Built a full-stack TypeScript dashboard with React frontend to visualize and
+  manage API data, improving operational efficiency
+- Created 2 custom Discord bots using Discord.py for community automation,
+  moderation, and user engagement features
+- Led community management for 400+ member Discord server, handling daily
+  technical operations and user support
+- Managed VPS hosting, database administration, and integrated workflows with
+  Google Sheets for seamless data processing
 
 ## Education
 
@@ -41,20 +52,22 @@ I'm currently a medical student at Minia National University (MNU), trying to ba
 
 ## My Interests
 
-- **Science**: I've always been curious to know how it all works all the time, just science for the sake of science.
+- **Science**: I've always been curious to know how it all works all the time,
+  just science for the sake of science.
 - **Medicine**: yeah I am doctor, how awesome 🫠.
-- **Coding and Development**: Building my own apps, websites, and tools to simplify my life.
-- **Creative Pursuits**: Playing music, designing, and drawing (I'm not a professional artist, but I enjoy expressing myself through sketches and designs).
+- **Coding and Development**: Building my own apps, websites, and tools to
+  simplify my life.
+- **Creative Pursuits**: Playing music, designing, and drawing (I'm not a
+  professional artist, but I enjoy expressing myself through sketches and designs).
 
 ## Let's Connect!
 
-I'm always open to collaboration or just chatting about things that spark curiosity. Here's how you can reach me:
+I'm always open to collaboration or just chatting about things that spark
+curiosity. Here's how you can reach me:
 
 - **Email**: [youssefadly237@gmail.com](mailto:youssefadly237@gmail.com)
 - **GitHub**: [https://github.com/youssefadly237](https://github.com/youssefadly237)
 - **Twitter**: [@youssefadly237](https://x.com/youssefadly237)
-- **Telegram** [@youssefadly237](https://t.me/youssefadly237)
-- **WhatsApp** [+20 109 303 1058](https://api.whatsapp.com/send/?phone=%2B201093031058)
 
 Feel free to get in touch!
 
