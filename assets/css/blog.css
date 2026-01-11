@@ -161,14 +161,13 @@ main {
     padding: 1.5rem;
   }
   header {
-    flex-direction: column;
-    gap: 3rem;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
   }
   header #dark-mode-toggle {
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
-    align-self: flex-end;
+    align-items: center;
   }
   header .site-title {
     font-size: 3rem;
