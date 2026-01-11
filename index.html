@@ -1,9 +1,14 @@
+---
+title: Blog
+---
+
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
   <body>
     <main>
       {% include header.html %} {% include bio.html %}
+
       <section class="articles">
         {% for item in site.items %}
         <article class="article">
@@ -20,6 +25,7 @@
         </article>
         {%endfor%}
       </section>
+
       <section class="articles">
         {% for post in paginator.posts %}
         <article class="article">
@@ -45,10 +51,10 @@
         <a
           href="{{ paginator.previous_page_path | relative_url }}"
           class="pagination-btn"
-          >&laquo; Previous</a
+          >&laquo; Prev</a
         >
         {% else %}
-        <span class="pagination-btn disabled">&laquo; Previous</span>
+        <span class="pagination-btn disabled">&laquo; Prev</span>
         {% endif %}
 
         <span class="pagination-info">

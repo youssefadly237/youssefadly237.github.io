@@ -8,11 +8,15 @@ author:
 
 log_level: info
 
+paginate: 5
+paginate_path: "/page/:num/"
+
 plugins:
   - jemoji
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-paginate
 
 collections_dir: all_collections
 collections:
