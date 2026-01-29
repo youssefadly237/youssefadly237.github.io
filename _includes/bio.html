@@ -6,9 +6,7 @@
     <div id="text-wrapper">{{site.data.author.description}}</div>
     <div id="social-wrapper">
       {% for i in site.data.author.contact %}
-      <a href="{{i.url}}" target="_blank">
-        <img src="{{site.baseurl}}/assets/icons/{{i.title}}.svg" alt="" />
-      </a>
+      <a href="{{i.url}}" target="_blank" aria-label="{{i.title}}" class="social-icon" style="--icon-url: url('{{site.baseurl}}/assets/icons/{{i.title}}.svg')"></a>
       {%endfor%}
     </div>
   </section>
