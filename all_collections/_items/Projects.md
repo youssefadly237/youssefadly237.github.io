@@ -25,6 +25,12 @@ calendar arithmetic and conversions.
 
 Repo: [calz](https://github.com/youssefadly237/calz).
 
+## Mina's Math Gallery
+
+Hugo site for a friend's math-art stuff (yeah math can look sexy).
+
+Live site: [Mina's Math Gallery](https://minabasilious.github.io/math-gallery/)
+
 ---
 
 ## Open source contributions
