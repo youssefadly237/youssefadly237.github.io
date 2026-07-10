@@ -40,3 +40,7 @@ Live site: [Mina's Math Gallery](https://minabasilious.github.io/math-gallery/)
 I contribute a little to Xournal++ itself, checkout my PRs.
 
 [PRs by me](https://github.com/xournalpp/xournalpp/issues?q=is%3Apr+author%3Ayoussefadly237)
+
+### Other
+
+[niri/#3745](https://github.com/niri-wm/niri/pull/3745), [neovim/#40310](https://github.com/neovim/neovim/pull/40310)

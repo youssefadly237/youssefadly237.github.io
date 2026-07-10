@@ -7,7 +7,9 @@ Hi! I'm J. Adly (also Youssef or Joseph, depending on context).
 Medical student by day, hobbyist dev by night.
 I operate on the fact that life is best spent learning, building, and pushing that red button 🙄
 
+<!-- markdownlint-disable MD033 -->
 <img src="{{ site.baseurl }}/assets/img/Peter_Griffin_Do_Not_Push.png" alt="Peter Griffin DON'T Push" style="max-width: 75%;">
+<!-- markdownlint-enable MD033 -->
 
 ## What Keeps Me Going
 
@@ -37,7 +39,7 @@ I operate on the fact that life is best spent learning, building, and pushing th
 
 ### Full-Stack Developer & Technical Assistant (Freelance · Remote)
 
-- May 2025 – Oct 2025
+- May 2025 - Oct 2025
 - Developed and maintained two production REST APIs using Python/Flask with
   PostgreSQL integration for client data management
 - Built a full-stack TypeScript dashboard with React frontend to visualize and
@@ -49,7 +51,9 @@ I operate on the fact that life is best spent learning, building, and pushing th
 - Managed VPS hosting, database administration, and integrated workflows with
   Google Sheets
 
+<!-- markdownlint-disable MD026 -->
 ## Let's Connect!
+<!-- markdownlint-enable MD026 -->
 
 I'm always open to collaboration or just chatting about things that spark
 curiosity. Here's how you can reach me:
