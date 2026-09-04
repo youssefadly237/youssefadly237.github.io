@@ -12,8 +12,8 @@ Repo: [vi-xournalpp](https://github.com/youssefadly237/vi-xournalpp).
 
 ## taskbeep
 
-Since I lose track of time A LOT, I made a tiny CLI timer for myself.
-It beeps to remind me that I am alive, and it integrates very well with waybar.
+Since I lose track of time A LOT, I made a tiny CLI timer for myself. It beeps
+to remind me that I am alive, and it integrates very well with waybar.
 
 Repo: [taskbeep](https://github.com/youssefadly237/taskbeep)
 
@@ -43,4 +43,6 @@ I contribute a little to Xournal++ itself, checkout my PRs.
 
 ### Other
 
-[niri/#3745](https://github.com/niri-wm/niri/pull/3745), [neovim/#40310](https://github.com/neovim/neovim/pull/40310)
+[niri/#3745](https://github.com/niri-wm/niri/pull/3745),
+[neovim/#40310](https://github.com/neovim/neovim/pull/40310),
+[portaudio/#1162](https://github.com/PortAudio/portaudio/pull/1162)
